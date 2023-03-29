@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-03-28">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="Zachary's Karate Club">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="club" type="string" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <viz:color r="25" g="230" b="0" a="1" />
+        <viz:position x="136.0" y="1.7087717196773156e-07" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <viz:color r="116" g="139" b="0" a="1" />
+        <viz:position x="133.68434143066406" y="24.989933780839635" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <viz:color r="100" g="155" b="0" a="1" />
+        <viz:position x="126.81622314453125" y="49.12886708181162" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <viz:color r="175" g="80" b="0" a="1" />
+        <viz:position x="115.62952613830566" y="71.59477346341868" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <viz:color r="223" g="32" b="0" a="1" />
+        <viz:position x="100.50521087646484" y="91.62260501783152" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <viz:color r="185" g="70" b="0" a="1" />
+        <viz:position x="81.95831489562988" y="108.53033988874216" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <viz:color r="191" g="64" b="0" a="1" />
+        <viz:position x="60.6204149723053" y="121.74220865171213" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <viz:color r="206" g="49" b="0" a="1" />
+        <viz:position x="37.2181658744812" y="130.8082911292817" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <viz:color r="186" g="69" b="0" a="1" />
+        <viz:position x="12.548498332500458" y="135.4198452750947" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <viz:color r="255" g="0" b="0" a="1" />
+        <viz:position x="-12.548494279384613" y="135.4198452750947" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="10" label="10">
+        <viz:color r="223" g="32" b="0" a="1" />
+        <viz:position x="-37.21815776824951" y="130.8082911292817" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="11" label="11">
+        <viz:color r="255" g="0" b="0" a="1" />
+        <viz:position x="-60.62040686607361" y="121.74220865171213" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="12" label="12">
+        <viz:color r="250" g="5" b="0" a="1" />
+        <viz:position x="-81.95831489562988" y="108.53033988874216" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="13" label="13">
+        <viz:color r="186" g="69" b="0" a="1" />
+        <viz:position x="-100.50520277023315" y="91.6226212302949" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="14" label="14">
+        <viz:color r="245" g="10" b="0" a="1" />
+        <viz:position x="-115.62952613830566" y="71.59477346341868" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="15" label="15">
+        <viz:color r="235" g="20" b="0" a="1" />
+        <viz:position x="-126.81621503829956" y="49.128883294275" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="16" label="16">
+        <viz:color r="234" g="21" b="0" a="1" />
+        <viz:position x="-133.68434143066406" y="24.989935807397558" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="17" label="17">
+        <viz:color r="255" g="0" b="0" a="1" />
+        <viz:position x="-136.0" y="-1.1718620442024985e-05" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="18" label="18">
+        <viz:color r="255" g="0" b="0" a="1" />
+        <viz:position x="-133.68434143066406" y="-24.989927359411524" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="19" label="19">
+        <viz:color r="245" g="10" b="0" a="1" />
+        <viz:position x="-126.81622314453125" y="-49.128874846288966" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="20" label="20">
+        <viz:color r="250" g="5" b="0" a="1" />
+        <viz:position x="-115.62953424453735" y="-71.59476501543264" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="21" label="21">
+        <viz:color r="250" g="5" b="0" a="1" />
+        <viz:position x="-100.50521087646484" y="-91.62260467607717" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Mr. Hi" />
+        </attvalues>
+      </node>
+      <node id="22" label="22">
+        <viz:color r="245" g="10" b="0" a="1" />
+        <viz:position x="-81.95832300186157" y="-108.53033144075613" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="23" label="23">
+        <viz:color r="163" g="92" b="0" a="1" />
+        <viz:position x="-60.62041902542114" y="-121.74220830995779" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="24" label="24">
+        <viz:color r="235" g="20" b="0" a="1" />
+        <viz:position x="-37.21815371513367" y="-130.80829078752737" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="25" label="25">
+        <viz:color r="200" g="55" b="0" a="1" />
+        <viz:position x="-12.548469960689545" y="-135.41985303957205" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="26" label="26">
+        <viz:color r="239" g="16" b="0" a="1" />
+        <viz:position x="12.54847401380539" y="-135.41985303957205" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <viz:color r="204" g="51" b="0" a="1" />
+        <viz:position x="37.21815371513367" y="-130.80829078752737" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="28" label="28">
+        <viz:color r="241" g="14" b="0" a="1" />
+        <viz:position x="60.62041902542114" y="-121.74220830995779" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="29" label="29">
+        <viz:color r="201" g="54" b="0" a="1" />
+        <viz:position x="81.95832300186157" y="-108.53033144075613" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="30" label="30">
+        <viz:color r="216" g="39" b="0" a="1" />
+        <viz:position x="100.50518655776978" y="-91.62262899477224" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="31" label="31">
+        <viz:color r="161" g="94" b="0" a="1" />
+        <viz:position x="115.62951803207397" y="-71.59478933412771" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <viz:color r="62" g="193" b="0" a="1" />
+        <viz:position x="126.81622314453125" y="-49.12887079317312" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+      <node id="33" label="33">
+        <viz:color r="0" g="255" b="0" a="1" />
+        <viz:position x="133.68434143066406" y="-24.98992330629568" z="0.0" />
+        <attvalues>
+          <attvalue for="0" value="Officer" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="1" id="0" weight="4" />
+      <edge source="0" target="2" id="1" weight="5" />
+      <edge source="0" target="3" id="2" weight="3" />
+      <edge source="0" target="4" id="3" weight="3" />
+      <edge source="0" target="5" id="4" weight="3" />
+      <edge source="0" target="6" id="5" weight="3" />
+      <edge source="0" target="7" id="6" weight="2" />
+      <edge source="0" target="8" id="7" weight="2" />
+      <edge source="0" target="10" id="8" weight="2" />
+      <edge source="0" target="11" id="9" weight="3" />
+      <edge source="0" target="12" id="10" weight="1" />
+      <edge source="0" target="13" id="11" weight="3" />
+      <edge source="0" target="17" id="12" weight="2" />
+      <edge source="0" target="19" id="13" weight="2" />
+      <edge source="0" target="21" id="14" weight="2" />
+      <edge source="0" target="31" id="15" weight="2" />
+      <edge source="1" target="2" id="16" weight="6" />
+      <edge source="1" target="3" id="17" weight="3" />
+      <edge source="1" target="7" id="18" weight="4" />
+      <edge source="1" target="13" id="19" weight="5" />
+      <edge source="1" target="17" id="20" weight="1" />
+      <edge source="1" target="19" id="21" weight="2" />
+      <edge source="1" target="21" id="22" weight="2" />
+      <edge source="1" target="30" id="23" weight="2" />
+      <edge source="2" target="3" id="24" weight="3" />
+      <edge source="2" target="7" id="25" weight="4" />
+      <edge source="2" target="8" id="26" weight="5" />
+      <edge source="2" target="9" id="27" weight="1" />
+      <edge source="2" target="13" id="28" weight="3" />
+      <edge source="2" target="27" id="29" weight="2" />
+      <edge source="2" target="28" id="30" weight="2" />
+      <edge source="2" target="32" id="31" weight="2" />
+      <edge source="3" target="7" id="32" weight="3" />
+      <edge source="3" target="12" id="33" weight="3" />
+      <edge source="3" target="13" id="34" weight="3" />
+      <edge source="4" target="6" id="35" weight="2" />
+      <edge source="4" target="10" id="36" weight="3" />
+      <edge source="5" target="6" id="37" weight="5" />
+      <edge source="5" target="10" id="38" weight="3" />
+      <edge source="5" target="16" id="39" weight="3" />
+      <edge source="6" target="16" id="40" weight="3" />
+      <edge source="8" target="30" id="41" weight="3" />
+      <edge source="8" target="32" id="42" weight="3" />
+      <edge source="8" target="33" id="43" weight="4" />
+      <edge source="9" target="33" id="44" weight="2" />
+      <edge source="13" target="33" id="45" weight="3" />
+      <edge source="14" target="32" id="46" weight="3" />
+      <edge source="14" target="33" id="47" weight="2" />
+      <edge source="15" target="32" id="48" weight="3" />
+      <edge source="15" target="33" id="49" weight="4" />
+      <edge source="18" target="32" id="50" weight="1" />
+      <edge source="18" target="33" id="51" weight="2" />
+      <edge source="19" target="33" id="52" weight="1" />
+      <edge source="20" target="32" id="53" weight="3" />
+      <edge source="20" target="33" id="54" weight="1" />
+      <edge source="22" target="32" id="55" weight="2" />
+      <edge source="22" target="33" id="56" weight="3" />
+      <edge source="23" target="25" id="57" weight="5" />
+      <edge source="23" target="27" id="58" weight="4" />
+      <edge source="23" target="29" id="59" weight="3" />
+      <edge source="23" target="32" id="60" weight="5" />
+      <edge source="23" target="33" id="61" weight="4" />
+      <edge source="24" target="25" id="62" weight="2" />
+      <edge source="24" target="27" id="63" weight="3" />
+      <edge source="24" target="31" id="64" weight="2" />
+      <edge source="25" target="31" id="65" weight="7" />
+      <edge source="26" target="29" id="66" weight="4" />
+      <edge source="26" target="33" id="67" weight="2" />
+      <edge source="27" target="33" id="68" weight="4" />
+      <edge source="28" target="31" id="69" weight="2" />
+      <edge source="28" target="33" id="70" weight="2" />
+      <edge source="29" target="32" id="71" weight="4" />
+      <edge source="29" target="33" id="72" weight="2" />
+      <edge source="30" target="32" id="73" weight="3" />
+      <edge source="30" target="33" id="74" weight="3" />
+      <edge source="31" target="32" id="75" weight="4" />
+      <edge source="31" target="33" id="76" weight="4" />
+      <edge source="32" target="33" id="77" weight="5" />
+    </edges>
+  </graph>
+</gexf>
